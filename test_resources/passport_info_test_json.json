@@ -1,0 +1,65 @@
+{
+  "results": [{
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Batur",
+      "last": "Aclan"
+    },
+    "location": {
+      "street": {
+        "number": 289,
+        "name": "Talak Göktepe Cd"
+      },
+      "city": "Kilis",
+      "state": "Samsun",
+      "country": "Turkey",
+      "postcode": 30264,
+      "coordinates": {
+        "latitude": "72.0603",
+        "longitude": "-84.3284"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "batur.aclan@example.com",
+    "login": {
+      "uuid": "10804fa3-473f-4b65-a779-ad404d6f21e6",
+      "username": "heavymeercat705",
+      "password": "justice",
+      "salt": "sCm9Ryv5",
+      "md5": "aa7d7f0249eb4bb275c53cb4a3783de2",
+      "sha1": "ef63b362d9d721e9c909fa85e6cb4e11415c4261",
+      "sha256": "f0b7aee0dd2f7f6ce3495046a53baf7d2209581bd1f3677524b621b05ed30f01"
+    },
+    "dob": {
+      "date": "1993-09-11T08:09:46.125Z",
+      "age": 29
+    },
+    "registered": {
+      "date": "2008-01-19T18:07:27.457Z",
+      "age": 15
+    },
+    "phone": "(383)-911-9389",
+    "cell": "(085)-724-2106",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/5.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "TR"
+  }
+  ],
+  "info": {
+    "seed": "88cd90bcf119c1b9",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
